@@ -30,7 +30,8 @@ You can see how the jumpers impact the schematic below.
 We tested this design with a number of now rare blank STM32F446ZEJ6 chips, as well as an excavated STM32 from a Paprium game cart. 
 <img src="https://github.com/MAVProxyUser/STM32F446ZEJx-SW308-UFO-V1.0/blob/main/STM32F446ZEJx-SW308-UFO%20V1.0/PHOTOS/IMG_7290.jpg">
 <img src="https://github.com/MAVProxyUser/STM32F446ZEJx-SW308-UFO-V1.0/blob/main/STM32F446ZEJx-SW308-UFO%20V1.0/PHOTOS/IMG_7052.jpg">
-<img src="https://github.com/MAVProxyUser/STM32F446ZEJx-SW308-UFO-V1.0/blob/main/STM32F446ZEJx-SW308-UFO%20V1.0/PHOTOS/IMG_1627.jpg">
+<img src="https://github.com/MAVProxyUser/STM32F446ZEJx-SW308-UFO-V1.0/blob/main/IMG_1627.jpg">
+
 If you need an amazing PCB designer, please let me know, and I can put you in touch with one. 
 
 
