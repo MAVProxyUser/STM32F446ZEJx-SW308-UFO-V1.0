@@ -1,0 +1,2 @@
+# STM32F446ZEJx-SW308-UFO-V1.0
+STM32F446ZEJ6 Target Board for ChipWhisperer
