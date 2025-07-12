@@ -8,7 +8,7 @@ STM32F446ZEJx UFBGA144 Target Board for ChipWhisperer
 It is no secret that I am affiliated with the group of people focusing on [efforts to dump the Watermelon Games Paprium cart](https://github.com/ArcadeHustle/WatermelonPapriumDump). As part of this effort there became a need to 
 attack an STM32F4 based chip. Sadly that chip wound up being in RDP2 mode, but the resulting tool that was created serves a greater purpose, so it is being shared here. 
 
-At the time the work effort was put forth there was no UFBGA144 compatible Target Board for ChipWhisperer, so we worked with a trusted PCB design partner (@javier-rodas owner of SEVENIX INGENIERIA & the @XTREME-MISTER project) to work out what was needed. This board will connect easily to a STLink V2, 
+At the time the work effort was put forth there was no UFBGA144 compatible Target Board for ChipWhisperer, so we worked with a trusted PCB design partner [@javier-rodas](https://github.com/javier-rodas) owner of SEVENIX INGENIERIA & the [@XTREME-MISTER](https://github.com/XTREME-MISTER) project to work out what was needed. This board will connect easily to a STLink V2, 
 or a ChipWhisperer depending on where the jumpers are placed. The initial project this board was created for never moved past the STLink jumpers, we immediatly found that the chip was fully protected with all debug interfaced 
 disabled. 
 
